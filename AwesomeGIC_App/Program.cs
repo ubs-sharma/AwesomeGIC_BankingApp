@@ -9,6 +9,7 @@ public class Program
     static Dictionary<string, BankAccount> Accounts = new();
     static List<InterestRule> InterestRules = new();
 
+
     public static void Main()
     {
         string input;
